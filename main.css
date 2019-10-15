@@ -5,3 +5,17 @@ html {
     -o-background-size: cover;
     background-size: cover;
   }
+
+  h1 {
+      font-size: 50px;
+      color: #ffd9b3;
+  }
+
+  h2 {
+      font-size: 18px;
+      color: #ffd9b3;
+  }
+
+  p {
+    color: #ffd9b3;
+  }
