@@ -27,6 +27,7 @@ html {
   p {
     font-style: italic;
     color: #ffd9b3;
+    
   }
 
   .me {
@@ -43,4 +44,12 @@ html {
       margin-right: auto;
       border: 40px;
       font-size: 14px;
+      margin-top: 50px;
+  }
+
+  .grey {
+      height: 3px;
+      background-color: chocolate;
+      border: none;
+      width: 50px;
   }
