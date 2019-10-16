@@ -4,12 +4,20 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    font-family: 'Mansalva', cursive;
+    text-align: center;
   }
 
   h1 {
       font-size: 50px;
       color: #ffd9b3;
+      font-weight: normal;
   }
+
+  h3 {
+    font-size: 18px;
+    color: #ffd9b3;
+}
 
   h2 {
       font-size: 18px;
@@ -17,5 +25,22 @@ html {
   }
 
   p {
+    font-style: italic;
     color: #ffd9b3;
+  }
+
+  .me {
+      height: 150px;
+    border-radius: 100%;
+    border-style: solid;
+    border-color:#ffd9b3;
+  }
+
+
+  #wrapper {
+      width:400px;
+      margin-left: auto;
+      margin-right: auto;
+      border: 40px;
+      font-size: 14px;
   }
